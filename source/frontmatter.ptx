@@ -13,6 +13,9 @@
     <date>
       <today />
     </date>
+    <interactive>
+      <script src="./node_modules/lilypad-web/editor.js"></script>
+    </interactive>
   </titlepage>
 
   <colophon>

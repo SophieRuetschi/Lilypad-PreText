@@ -7,7 +7,7 @@
   <book xml:id="my-great-book">
     <title>My Great Book</title>
     <subtitle>An example to get you started</subtitle>
-
+    <interactive source="small-graph"></interactive>
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
