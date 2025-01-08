@@ -6,16 +6,14 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Cacti Counsil</personname>
+      <department>College of Engineering</department>
+      <institution>University of Florida</institution>
     </author>
     <date>
       <today />
     </date>
-    <interactive>
-      <script src="./lilypad-web/editor.js"></script>
-    </interactive>
+
   </titlepage>
 
   <colophon>

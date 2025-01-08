@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Section Title</title>
+  <title>Lilypad Editor</title>
 
-  <p> Text of section. </p>
+  <p> Editor below. </p>
+
+  <figure>
+    <caption>Lilypad</caption>
+      <interactive xml:id="LilEditor" platform="javascript" source="editor.js">
+        <slate xml:id="editor" surface="canvas" />
+        <instructions>
+          <p>
+            Test
+          </p>
+        </instructions>
+      </interactive>
+  </figure>
 
 </section>

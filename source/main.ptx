@@ -5,9 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
-    <interactive source="small-graph"></interactive>
+    <title>Lilypad Pretext Intergration Demo</title>
+    <subtitle>Sample of Lilypad Module</subtitle>
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
