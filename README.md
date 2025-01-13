@@ -1,4 +1,5 @@
 # Lilypad + Pretext Integration Demo
+# Code derived from: https://github.com/PreTeXtBook/pretext-codespace
 
 Demo of Lilypad package in PreText textbook.
 
