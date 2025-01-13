@@ -7,7 +7,7 @@
 
   <figure>
     <caption>Lilypad</caption>
-      <interactive xml:id="LilEditor" platform="javascript" source="editor.js">
+      <interactive xml:id="LilEditor" platform="javascript" source="lilypad-web/editor.js">
         <slate xml:id="editor" surface="canvas" />
         <instructions>
           <p>
