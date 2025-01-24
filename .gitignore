@@ -103,5 +103,5 @@ codechat_config.yaml
 .github/workflows/deploy.yml
 .github/workflows/test-build.yml
 
-# Don't track pretext-env
+#dont track virtural environment
 pretext-env/
