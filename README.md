@@ -8,6 +8,7 @@ Demo of Lilypad package in PreText textbook.
 Clone repository locally and set up PreText on your computer (this may require setting up a virtural environment for running PreText). 
 
 Run the following commands to view:
+
 pretext build
 
 pretext view
