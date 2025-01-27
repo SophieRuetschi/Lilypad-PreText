@@ -5,17 +5,14 @@
 
   <p> Editor below. </p>
 
-  <figure>
-    <caption>Lilypad</caption>
-    <interactive xml:id="LilEditor" platform="javascript" source="lilypad-web/editor.js">
-      <slate xml:id="editor" surface="canvas" />
-      <instructions>
-        <p>
-          Test
-        </p>
-      </instructions>
-    </interactive>
-  </figure>
+  <interactive aspect="1:1" width="100%" xml:id="lilly-1" platform="javascript">
+    <slate surface="html">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%">
+        <canvas id="lilypad-canvas" style="width: 100%; height: 98%;"></canvas>
+        <script src="external/lilypad-web-editor/editor.js"></script>
+      </div>
+    </slate>
+  </interactive>
 
 
 </section>

@@ -7,7 +7,7 @@
 
 # don't track unpublished builds or stage (note: Runestone uses `published`)
 output
-!output/web/external/lilypad-web/
+! output/web/external/lilypad-web-editor
 published
 
 # don't track assets generated from source
@@ -104,4 +104,4 @@ codechat_config.yaml
 .github/workflows/deploy.yml
 .github/workflows/test-build.yml
 
-pretext-env
+pretext-env/
