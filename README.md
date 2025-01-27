@@ -9,6 +9,7 @@ Clone repository locally and set up PreText on your computer (this may require s
 
 Run the following commands to view:
 pretext build
+
 pretext view
 
 Lilypad editor can be found in Chapter 1.1 of this book.
